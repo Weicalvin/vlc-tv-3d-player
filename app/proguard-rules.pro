@@ -1,0 +1,4 @@
+-keep class org.videolan.** { *; }
+-keep class com.telegram.** { *; }
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile
